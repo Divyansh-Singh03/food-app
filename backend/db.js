@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const mongoURI =
-  "mongodb+srv://divyanshsingh0607:divu123@cluster0.npzzgfj.mongodb.net/goFoodmern?retryWrites=true&w=majority&appName=Cluster0";
+  "***";
 
 const mongoDB = async (callback) => {
   try {
